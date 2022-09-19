@@ -1,0 +1,42 @@
+{
+  "key": 4,
+  "updateAuthority": "Fz1NzfYcHEGBJCRhkTDJRjxMgbMrZsRSTas1iVnFnK7w",
+  "mint": "EFeDc5G3miz3j9a93hH5Ng6z7rdhVktDcSSsXVL568BJ",
+  "data": {
+    "name": "",
+    "symbol": "LBC",
+    "uri": "https://testlaunchmynft.mypinata.cloud/ipfs/QmTDbUuRPV1manLSLD8vyVbt7BryNGen7XYgf5s9LYpCBT/3220.json",
+    "sellerFeeBasisPoints": 600,
+    "creators": [
+      {
+        "address": "7NREVZQheXWfoaQNoRHr8ujWpHdLfgvnv4DKXS1HLAkG",
+        "verified": 1,
+        "share": 0
+      },
+      {
+        "address": "Fz1NzfYcHEGBJCRhkTDJRjxMgbMrZsRSTas1iVnFnK7w",
+        "verified": 0,
+        "share": 80
+      },
+      {
+        "address": "DDq8TNmrfr1BZuyteMGyRMHDqY3RNWX2Uh9gH6Rn79uX",
+        "verified": 0,
+        "share": 20
+      }
+    ]
+    ]
+  },
+  "primarySaleHappened": 1,
+  "isMutable": 1,
+  "editionNonce": 255,
+  "collection": {
+    "verified": 1,
+    "key": "2aJ8PK9Cn6FkPNVKMCdqYmDRKLisLQZCsU2GdGZkDG4M"
+  },
+  "type": "metaplex",
+  "edition": {
+    "type": "MasterEdition",
+    "maxSupply": "0",
+    "supply": "0"
+  }
+}
